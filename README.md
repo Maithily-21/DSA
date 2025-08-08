@@ -32,6 +32,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
+| [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +50,12 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Maithily-21/DSA/tree/master/3790-fruits-into-baskets-ii) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
