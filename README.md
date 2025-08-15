@@ -53,9 +53,18 @@ This repository contains my solutions to various LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
