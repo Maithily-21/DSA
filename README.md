@@ -30,6 +30,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -79,6 +81,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
