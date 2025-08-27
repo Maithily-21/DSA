@@ -16,9 +16,8 @@ class Solution {
             Arrays.sort(sCharArray);
             Arrays.sort(tCharArray);
 
-            if(Arrays.equals(sCharArray , tCharArray)){
-                return true;
-            }
+            Boolean result = Arrays.equals(sCharArray , tCharArray);
+            return result ;
 
         }
 
