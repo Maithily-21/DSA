@@ -38,6 +38,7 @@ This repository contains my solutions to various LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Maithily-21/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
