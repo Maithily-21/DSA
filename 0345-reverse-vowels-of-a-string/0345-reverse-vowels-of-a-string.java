@@ -21,10 +21,8 @@ class Solution {
                 right--;
             }
         }
-        for(int i = 0 ; i < s.length() ; i++){
-            sb.append(array[i]);
-        }
-       return sb.toString();
+        
+       return new String(array);
     }
 
     public boolean isVowel(char c ){
