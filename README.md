@@ -69,6 +69,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Maithily-21/DSA/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
 | [1448-maximum-69-number](https://github.com/Maithily-21/DSA/tree/master/1448-maximum-69-number) |
@@ -85,6 +86,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Maithily-21/DSA/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
