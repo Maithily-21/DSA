@@ -35,6 +35,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maithily-21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Maithily-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Maithily-21/DSA/tree/master/1894-merge-strings-alternately) |
@@ -42,6 +43,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Maithily-21/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maithily-21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Maithily-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -97,4 +99,8 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maithily-21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
