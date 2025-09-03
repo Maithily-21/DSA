@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Maithily-21/DSA/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Maithily-21/DSA/tree/master/0498-diagonal-traverse) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -73,6 +74,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Maithily-21/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
 | [1448-maximum-69-number](https://github.com/Maithily-21/DSA/tree/master/1448-maximum-69-number) |
