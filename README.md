@@ -79,6 +79,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
 | [1448-maximum-69-number](https://github.com/Maithily-21/DSA/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3830-find-closest-person](https://github.com/Maithily-21/DSA/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |
