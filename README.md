@@ -31,6 +31,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Maithily-21/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -44,6 +45,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Maithily-21/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Maithily-21/DSA/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maithily-21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
@@ -73,6 +75,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Maithily-21/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Maithily-21/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
