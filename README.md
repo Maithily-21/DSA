@@ -65,6 +65,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Maithily-21/DSA/tree/master/0069-sqrtx) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Maithily-21/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Maithily-21/DSA/tree/master/0792-binary-search) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -89,6 +90,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0050-powx-n](https://github.com/Maithily-21/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Maithily-21/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Maithily-21/DSA/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
 | [1448-maximum-69-number](https://github.com/Maithily-21/DSA/tree/master/1448-maximum-69-number) |
