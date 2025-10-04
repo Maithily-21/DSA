@@ -14,6 +14,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Maithily-21/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Maithily-21/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Maithily-21/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Maithily-21/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Maithily-21/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -72,6 +73,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Maithily-21/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Maithily-21/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Maithily-21/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Maithily-21/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/Maithily-21/DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -134,4 +136,8 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maithily-21/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
