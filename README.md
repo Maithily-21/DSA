@@ -9,6 +9,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0054-spiral-matrix](https://github.com/Maithily-21/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0162-find-peak-element](https://github.com/Maithily-21/DSA/tree/master/0162-find-peak-element) |
 | [0498-diagonal-traverse](https://github.com/Maithily-21/DSA/tree/master/0498-diagonal-traverse) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Maithily-21/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Maithily-21/DSA/tree/master/0792-binary-search) |
@@ -67,6 +68,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Maithily-21/DSA/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Maithily-21/DSA/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Maithily-21/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Maithily-21/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Maithily-21/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
