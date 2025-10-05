@@ -70,6 +70,7 @@ This repository contains my solutions to various LeetCode problems.
 | ------- |
 | [0069-sqrtx](https://github.com/Maithily-21/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Maithily-21/DSA/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/Maithily-21/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Maithily-21/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Maithily-21/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Maithily-21/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -139,5 +140,6 @@ This repository contains my solutions to various LeetCode problems.
 ## Interactive
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Maithily-21/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
