@@ -72,6 +72,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Maithily-21/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Maithily-21/DSA/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/Maithily-21/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Maithily-21/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Maithily-21/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Maithily-21/DSA/tree/master/0792-binary-search) |
@@ -142,6 +143,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Maithily-21/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Maithily-21/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
