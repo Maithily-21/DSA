@@ -63,6 +63,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0345-reverse-vowels-of-a-string](https://github.com/Maithily-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/Maithily-21/DSA/tree/master/0812-rotate-string) |
+| [1205-defanging-an-ip-address](https://github.com/Maithily-21/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/Maithily-21/DSA/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maithily-21/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
