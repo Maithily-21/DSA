@@ -50,6 +50,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maithily-21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maithily-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/Maithily-21/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Maithily-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Maithily-21/DSA/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -62,6 +63,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0067-add-binary](https://github.com/Maithily-21/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Maithily-21/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Maithily-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/Maithily-21/DSA/tree/master/0812-rotate-string) |
