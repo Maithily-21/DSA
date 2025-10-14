@@ -154,4 +154,8 @@ This repository contains my solutions to various LeetCode problems.
 | [0278-first-bad-version](https://github.com/Maithily-21/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Maithily-21/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Maithily-21/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
