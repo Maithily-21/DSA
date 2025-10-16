@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0882-peak-index-in-a-mountain-array](https://github.com/Maithily-21/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Maithily-21/DSA/tree/master/2058-concatenation-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Maithily-21/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Maithily-21/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -160,4 +161,8 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Maithily-21/DSA/tree/master/0175-combine-two-tables) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
