@@ -20,6 +20,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/Maithily-21/DSA/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Maithily-21/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Maithily-21/DSA/tree/master/2058-concatenation-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Maithily-21/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -32,6 +33,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Maithily-21/DSA/tree/master/0498-diagonal-traverse) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1791-richest-customer-wealth](https://github.com/Maithily-21/DSA/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
