@@ -80,6 +80,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0344-reverse-string](https://github.com/Maithily-21/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Maithily-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
+| [0742-to-lower-case](https://github.com/Maithily-21/DSA/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Maithily-21/DSA/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Maithily-21/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/Maithily-21/DSA/tree/master/1894-merge-strings-alternately) |
