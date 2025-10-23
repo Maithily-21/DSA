@@ -24,6 +24,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1580-shuffle-the-array](https://github.com/Maithily-21/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maithily-21/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Maithily-21/DSA/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Maithily-21/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Maithily-21/DSA/tree/master/2058-concatenation-of-array) |
@@ -83,6 +84,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0742-to-lower-case](https://github.com/Maithily-21/DSA/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Maithily-21/DSA/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Maithily-21/DSA/tree/master/1205-defanging-an-ip-address) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maithily-21/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Maithily-21/DSA/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maithily-21/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
