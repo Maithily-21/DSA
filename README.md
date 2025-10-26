@@ -26,6 +26,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maithily-21/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Maithily-21/DSA/tree/master/1791-richest-customer-wealth) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Maithily-21/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Maithily-21/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Maithily-21/DSA/tree/master/2058-concatenation-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Maithily-21/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
