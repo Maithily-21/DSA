@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0054-spiral-matrix](https://github.com/Maithily-21/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/Maithily-21/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Maithily-21/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maithily-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Maithily-21/DSA/tree/master/0485-max-consecutive-ones) |
@@ -144,6 +145,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Maithily-21/DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Maithily-21/DSA/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
