@@ -17,8 +17,6 @@ class Solution {
            }
           
         }
-
-        Collections.sort(missingNo);
         
         return missingNo;
 
