@@ -134,6 +134,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0069-sqrtx](https://github.com/Maithily-21/DSA/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/Maithily-21/DSA/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Maithily-21/DSA/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Maithily-21/DSA/tree/master/1642-water-bottles) |
@@ -155,6 +156,7 @@ This repository contains my solutions to various LeetCode problems.
 | ------- |
 | [0050-powx-n](https://github.com/Maithily-21/DSA/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Maithily-21/DSA/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -193,4 +195,12 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Maithily-21/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Maithily-21/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
