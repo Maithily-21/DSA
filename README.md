@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0054-spiral-matrix](https://github.com/Maithily-21/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0134-gas-station](https://github.com/Maithily-21/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Maithily-21/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Maithily-21/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maithily-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -153,6 +154,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Maithily-21/DSA/tree/master/0134-gas-station) |
 | [1448-maximum-69-number](https://github.com/Maithily-21/DSA/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
