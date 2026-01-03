@@ -8,6 +8,7 @@ This repository contains my solutions to various LeetCode problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Maithily-21/DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Maithily-21/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/Maithily-21/DSA/tree/master/0134-gas-station) |
@@ -176,6 +177,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Maithily-21/DSA/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Maithily-21/DSA/tree/master/0414-third-maximum-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
