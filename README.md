@@ -26,6 +26,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Maithily-21/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maithily-21/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/Maithily-21/DSA/tree/master/1390-four-divisors) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maithily-21/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -151,6 +152,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0412-fizz-buzz](https://github.com/Maithily-21/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Maithily-21/DSA/tree/master/1013-fibonacci-number) |
+| [1390-four-divisors](https://github.com/Maithily-21/DSA/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Maithily-21/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Maithily-21/DSA/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
