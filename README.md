@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0047-permutations-ii](https://github.com/Maithily-21/DSA/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Maithily-21/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Maithily-21/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
@@ -181,6 +182,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Maithily-21/DSA/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Maithily-21/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Maithily-21/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
@@ -228,4 +230,8 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Maithily-21/DSA/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Maithily-21/DSA/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
