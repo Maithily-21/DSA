@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0164-maximum-gap](https://github.com/Maithily-21/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maithily-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/Maithily-21/DSA/tree/master/0414-third-maximum-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Maithily-21/DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Maithily-21/DSA/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -172,6 +173,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Maithily-21/DSA/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1448-maximum-69-number](https://github.com/Maithily-21/DSA/tree/master/1448-maximum-69-number) |
 | [1975-maximum-matrix-sum](https://github.com/Maithily-21/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -198,6 +200,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0164-maximum-gap](https://github.com/Maithily-21/DSA/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Maithily-21/DSA/tree/master/0414-third-maximum-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
