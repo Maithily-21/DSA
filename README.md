@@ -23,6 +23,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0485-max-consecutive-ones](https://github.com/Maithily-21/DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Maithily-21/DSA/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Maithily-21/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Maithily-21/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Maithily-21/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -77,6 +78,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0202-happy-number](https://github.com/Maithily-21/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Maithily-21/DSA/tree/master/0383-ransom-note) |
+| [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Maithily-21/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
@@ -108,6 +110,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0383-ransom-note](https://github.com/Maithily-21/DSA/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Maithily-21/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
+| [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Maithily-21/DSA/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Maithily-21/DSA/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Maithily-21/DSA/tree/master/1205-defanging-an-ip-address) |
@@ -137,6 +140,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Maithily-21/DSA/tree/master/0383-ransom-note) |
+| [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Maithily-21/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Segment Tree
@@ -201,11 +205,13 @@ This repository contains my solutions to various LeetCode problems.
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Maithily-21/DSA/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## String Matching
 |  |
@@ -254,8 +260,13 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Maithily-21/DSA/tree/master/0164-maximum-gap) |
+| [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Maithily-21/DSA/tree/master/0164-maximum-gap) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
