@@ -18,6 +18,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0162-find-peak-element](https://github.com/Maithily-21/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Maithily-21/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maithily-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Maithily-21/DSA/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/Maithily-21/DSA/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Maithily-21/DSA/tree/master/0485-max-consecutive-ones) |
@@ -104,6 +105,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0058-length-of-last-word](https://github.com/Maithily-21/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Maithily-21/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Maithily-21/DSA/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Maithily-21/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Maithily-21/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
@@ -179,6 +181,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Maithily-21/DSA/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/Maithily-21/DSA/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1448-maximum-69-number](https://github.com/Maithily-21/DSA/tree/master/1448-maximum-69-number) |
 | [1975-maximum-matrix-sum](https://github.com/Maithily-21/DSA/tree/master/1975-maximum-matrix-sum) |
@@ -205,6 +208,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0056-merge-intervals](https://github.com/Maithily-21/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Maithily-21/DSA/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Maithily-21/DSA/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Maithily-21/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Maithily-21/DSA/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
