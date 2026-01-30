@@ -243,6 +243,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0181-employees-earning-more-than-their-managers](https://github.com/Maithily-21/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Maithily-21/DSA/tree/master/0182-duplicate-emails) |
 | [0620-not-boring-movies](https://github.com/Maithily-21/DSA/tree/master/0620-not-boring-movies) |
+| [1251-average-selling-price](https://github.com/Maithily-21/DSA/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Maithily-21/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Prefix Sum
 |  |
