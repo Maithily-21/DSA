@@ -245,6 +245,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0197-rising-temperature](https://github.com/Maithily-21/DSA/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/Maithily-21/DSA/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/Maithily-21/DSA/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Maithily-21/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/Maithily-21/DSA/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Maithily-21/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Maithily-21/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
