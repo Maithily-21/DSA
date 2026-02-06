@@ -164,6 +164,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Maithily-21/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Maithily-21/DSA/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Maithily-21/DSA/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Maithily-21/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
@@ -266,6 +267,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Maithily-21/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Maithily-21/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -306,4 +308,16 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Maithily-21/DSA/tree/master/0147-insertion-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
