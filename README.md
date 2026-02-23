@@ -173,6 +173,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Maithily-21/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Maithily-21/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/Maithily-21/DSA/tree/master/0492-construct-the-rectangle) |
 | [1013-fibonacci-number](https://github.com/Maithily-21/DSA/tree/master/1013-fibonacci-number) |
 | [1390-four-divisors](https://github.com/Maithily-21/DSA/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Maithily-21/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
