@@ -250,6 +250,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0181-employees-earning-more-than-their-managers](https://github.com/Maithily-21/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Maithily-21/DSA/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Maithily-21/DSA/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Maithily-21/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/Maithily-21/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Maithily-21/DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Maithily-21/DSA/tree/master/0620-not-boring-movies) |
