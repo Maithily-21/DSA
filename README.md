@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Maithily-21/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Maithily-21/DSA/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0047-permutations-ii](https://github.com/Maithily-21/DSA/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Maithily-21/DSA/tree/master/0054-spiral-matrix) |
@@ -90,6 +91,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Maithily-21/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Maithily-21/DSA/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maithily-21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Maithily-21/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
@@ -216,6 +218,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Maithily-21/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Maithily-21/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Maithily-21/DSA/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Maithily-21/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Maithily-21/DSA/tree/master/0075-sort-colors) |
