@@ -10,11 +10,6 @@ class Solution {
             int left = i+1 ;
             int right = n - 1 ; 
 
-             //skip duplicate iteration 
-            if(i > 0 && nums[i] == nums[i-1]){
-                continue;
-            }
-
             while(left < right){
 
                 int sum = nums[i] + nums[left] + nums[right];
@@ -22,7 +17,8 @@ class Solution {
                 if(Math.abs(target - sum) < Math.abs(target - closestSum)){
                     closestSum = sum ;
                 }
-                else if(sum < target){ // when sum is too small , increment left
+
+                if(sum < target){ // when sum is too small , increment left
                     left++;
                 }else if (sum > target){
                     right--;  // when sum  is too large , decrement right
