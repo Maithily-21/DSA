@@ -20,6 +20,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0162-find-peak-element](https://github.com/Maithily-21/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Maithily-21/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maithily-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Maithily-21/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Maithily-21/DSA/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/Maithily-21/DSA/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -79,6 +80,7 @@ This repository contains my solutions to various LeetCode problems.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Maithily-21/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Maithily-21/DSA/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Maithily-21/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Maithily-21/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
@@ -149,6 +151,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Maithily-21/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Maithily-21/DSA/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
@@ -224,6 +227,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0075-sort-colors](https://github.com/Maithily-21/DSA/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Maithily-21/DSA/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Maithily-21/DSA/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Maithily-21/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Maithily-21/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Maithily-21/DSA/tree/master/0414-third-maximum-number) |
@@ -337,4 +341,8 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Maithily-21/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
