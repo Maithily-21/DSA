@@ -6,6 +6,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Maithily-21/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Maithily-21/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Maithily-21/DSA/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -92,6 +93,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Maithily-21/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Maithily-21/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Maithily-21/DSA/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maithily-21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -193,6 +195,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Maithily-21/DSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Maithily-21/DSA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Maithily-21/DSA/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
