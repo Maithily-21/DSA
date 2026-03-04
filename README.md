@@ -16,6 +16,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Maithily-21/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Maithily-21/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Maithily-21/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Maithily-21/DSA/tree/master/0162-find-peak-element) |
@@ -99,6 +100,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0016-3sum-closest](https://github.com/Maithily-21/DSA/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maithily-21/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Maithily-21/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maithily-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Maithily-21/DSA/tree/master/0202-happy-number) |
@@ -231,6 +233,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0047-permutations-ii](https://github.com/Maithily-21/DSA/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Maithily-21/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Maithily-21/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Maithily-21/DSA/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Maithily-21/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Maithily-21/DSA/tree/master/0169-majority-element) |
