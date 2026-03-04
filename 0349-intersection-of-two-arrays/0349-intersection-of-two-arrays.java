@@ -15,9 +15,7 @@ class Solution {
 
         for(int j = 0 ; j < n2 ; j++){
             if(set.contains(nums2[j])){
-                if(!set2.contains(nums2[j])){
-                    set2.add(nums2[j]);
-                }
+                set2.add(nums2[j]);
             }
         }
         int[] result = new int[set2.size()];
