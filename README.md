@@ -224,6 +224,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0231-power-of-two](https://github.com/Maithily-21/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Maithily-21/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0476-number-complement](https://github.com/Maithily-21/DSA/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Maithily-21/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
