@@ -43,6 +43,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maithily-21/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Maithily-21/DSA/tree/master/1390-four-divisors) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maithily-21/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Maithily-21/DSA/tree/master/1580-shuffle-the-array) |
@@ -305,6 +306,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Maithily-21/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 ## Counting Sort
