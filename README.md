@@ -31,6 +31,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0485-max-consecutive-ones](https://github.com/Maithily-21/DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Maithily-21/DSA/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Maithily-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Maithily-21/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Maithily-21/DSA/tree/master/0724-find-pivot-index) |
@@ -96,6 +97,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0242-valid-anagram](https://github.com/Maithily-21/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Maithily-21/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Maithily-21/DSA/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/Maithily-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Maithily-21/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -307,6 +309,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Maithily-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Maithily-21/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
