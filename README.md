@@ -33,6 +33,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0540-single-element-in-a-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Maithily-21/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/Maithily-21/DSA/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Maithily-21/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Maithily-21/DSA/tree/master/0792-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Maithily-21/DSA/tree/master/0881-boats-to-save-people) |
@@ -306,6 +307,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Maithily-21/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Maithily-21/DSA/tree/master/3862-find-the-smallest-balanced-index) |
