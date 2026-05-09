@@ -55,6 +55,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maithily-21/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Maithily-21/DSA/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Maithily-21/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Maithily-21/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Maithily-21/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2048-build-array-from-permutation](https://github.com/Maithily-21/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Maithily-21/DSA/tree/master/2058-concatenation-of-array) |
@@ -71,6 +72,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maithily-21/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Maithily-21/DSA/tree/master/1791-richest-customer-wealth) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Maithily-21/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Maithily-21/DSA/tree/master/1975-maximum-matrix-sum) |
 ## Simulation
 |  |
@@ -82,6 +84,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Maithily-21/DSA/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Maithily-21/DSA/tree/master/1642-water-bottles) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Maithily-21/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maithily-21/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Maithily-21/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Maithily-21/DSA/tree/master/2058-concatenation-of-array) |
