@@ -52,6 +52,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1580-shuffle-the-array](https://github.com/Maithily-21/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Maithily-21/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maithily-21/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Maithily-21/DSA/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Maithily-21/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -231,6 +232,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/Maithily-21/DSA/tree/master/0881-boats-to-save-people) |
 | [1448-maximum-69-number](https://github.com/Maithily-21/DSA/tree/master/1448-maximum-69-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Maithily-21/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1975-maximum-matrix-sum](https://github.com/Maithily-21/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
@@ -277,6 +279,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1051-height-checker](https://github.com/Maithily-21/DSA/tree/master/1051-height-checker) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Maithily-21/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
