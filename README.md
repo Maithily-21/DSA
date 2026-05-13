@@ -53,6 +53,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Maithily-21/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Maithily-21/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maithily-21/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Maithily-21/DSA/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Maithily-21/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -110,6 +111,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Maithily-21/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Maithily-21/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -335,6 +337,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0724-find-pivot-index](https://github.com/Maithily-21/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Maithily-21/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Maithily-21/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 ## Counting Sort
 |  |
