@@ -63,6 +63,7 @@ This repository contains my solutions to various LeetCode problems.
 | [2058-concatenation-of-array](https://github.com/Maithily-21/DSA/tree/master/2058-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Maithily-21/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Maithily-21/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2784-check-if-array-is-good](https://github.com/Maithily-21/DSA/tree/master/2784-check-if-array-is-good) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Maithily-21/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/Maithily-21/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Maithily-21/DSA/tree/master/3862-find-the-smallest-balanced-index) |
@@ -112,6 +113,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Maithily-21/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2784-check-if-array-is-good](https://github.com/Maithily-21/DSA/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
 | ------- |
@@ -282,6 +284,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Maithily-21/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2784-check-if-array-is-good](https://github.com/Maithily-21/DSA/tree/master/2784-check-if-array-is-good) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
