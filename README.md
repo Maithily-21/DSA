@@ -45,6 +45,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Maithily-21/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/Maithily-21/DSA/tree/master/1051-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
+| [1306-jump-game-iii](https://github.com/Maithily-21/DSA/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maithily-21/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Maithily-21/DSA/tree/master/1390-four-divisors) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -421,4 +422,9 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Maithily-21/DSA/tree/master/0279-perfect-squares) |
+| [1306-jump-game-iii](https://github.com/Maithily-21/DSA/tree/master/1306-jump-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Maithily-21/DSA/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
