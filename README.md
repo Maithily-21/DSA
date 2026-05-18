@@ -259,6 +259,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Maithily-21/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Maithily-21/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Maithily-21/DSA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Maithily-21/DSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -400,6 +401,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Maithily-21/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/Maithily-21/DSA/tree/master/0147-insertion-sort-list) |
 ## Tree
 |  |
