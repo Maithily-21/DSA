@@ -13,24 +13,23 @@ class Solution {
         
         ListNode dummy = new ListNode(0);
         ListNode mover = dummy ;
-        ListNode temp1 = list1;
-        ListNode temp2 = list2 ;
-        while(temp1 != null && temp2 != null){
-            if(temp1.val <= temp2.val){
-               mover.next = temp1;
-               temp1 = temp1.next;
+       
+        while(list1 != null && list2 != null){
+            if(list1.val <= list2.val){
+               mover.next = list1;
+               list1 = list1.next;
             }else{
-                mover.next = temp2;
-                temp2 = temp2.next;
+                mover.next = list2;
+                list2 = list2.next;
             }
             mover = mover.next;
         }
         
         //if any node left in lists 
-        if(temp1 != null){
-            mover.next = temp1;
+        if(list1 != null){
+            mover.next = list1;
         }else{
-            mover.next = temp2;
+            mover.next = list2;
         }
         return dummy.next;
     }
