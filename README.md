@@ -105,6 +105,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Maithily-21/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Maithily-21/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Maithily-21/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Maithily-21/DSA/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Maithily-21/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Maithily-21/DSA/tree/master/0202-happy-number) |
@@ -131,6 +132,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0088-merge-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Maithily-21/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Maithily-21/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Maithily-21/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maithily-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Maithily-21/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Maithily-21/DSA/tree/master/0344-reverse-string) |
@@ -412,6 +414,7 @@ This repository contains my solutions to various LeetCode problems.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Maithily-21/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Maithily-21/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Maithily-21/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Maithily-21/DSA/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Maithily-21/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Maithily-21/DSA/tree/master/0876-middle-of-the-linked-list) |
