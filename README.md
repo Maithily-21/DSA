@@ -135,6 +135,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0142-linked-list-cycle-ii](https://github.com/Maithily-21/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maithily-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Maithily-21/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Maithily-21/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Maithily-21/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Maithily-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Maithily-21/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -272,6 +273,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0050-powx-n](https://github.com/Maithily-21/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Maithily-21/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Maithily-21/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Maithily-21/DSA/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Maithily-21/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Maithily-21/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Maithily-21/DSA/tree/master/1013-fibonacci-number) |
@@ -315,6 +317,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Maithily-21/DSA/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maithily-21/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Interactive
 |  |
@@ -417,6 +420,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0142-linked-list-cycle-ii](https://github.com/Maithily-21/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Maithily-21/DSA/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Maithily-21/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Maithily-21/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Maithily-21/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
