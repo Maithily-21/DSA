@@ -134,6 +134,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0344-reverse-string](https://github.com/Maithily-21/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Maithily-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Maithily-21/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/Maithily-21/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Maithily-21/DSA/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Maithily-21/DSA/tree/master/1894-merge-strings-alternately) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Maithily-21/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -408,6 +409,7 @@ This repository contains my solutions to various LeetCode problems.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Maithily-21/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/Maithily-21/DSA/tree/master/0147-insertion-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Maithily-21/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
