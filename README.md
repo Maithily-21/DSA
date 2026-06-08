@@ -143,6 +143,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0876-middle-of-the-linked-list](https://github.com/Maithily-21/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Maithily-21/DSA/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Maithily-21/DSA/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Maithily-21/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Maithily-21/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
@@ -425,6 +426,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0234-palindrome-linked-list](https://github.com/Maithily-21/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Maithily-21/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Maithily-21/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Maithily-21/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
