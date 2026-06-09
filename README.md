@@ -219,6 +219,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Maithily-21/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Maithily-21/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Maithily-21/DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Maithily-21/DSA/tree/master/0050-powx-n) |
@@ -271,6 +272,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Maithily-21/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Maithily-21/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Maithily-21/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Maithily-21/DSA/tree/master/0206-reverse-linked-list) |
@@ -417,6 +419,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Maithily-21/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Maithily-21/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Maithily-21/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Maithily-21/DSA/tree/master/0141-linked-list-cycle) |
