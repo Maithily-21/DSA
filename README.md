@@ -339,6 +339,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0181-employees-earning-more-than-their-managers](https://github.com/Maithily-21/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Maithily-21/DSA/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/Maithily-21/DSA/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Maithily-21/DSA/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Maithily-21/DSA/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/Maithily-21/DSA/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Maithily-21/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
