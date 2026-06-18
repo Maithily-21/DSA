@@ -321,6 +321,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Maithily-21/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Maithily-21/DSA/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maithily-21/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Interactive
@@ -459,4 +460,12 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Maithily-21/DSA/tree/master/1306-jump-game-iii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Maithily-21/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Maithily-21/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
