@@ -325,6 +325,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0020-valid-parentheses](https://github.com/Maithily-21/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Maithily-21/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Maithily-21/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Maithily-21/DSA/tree/master/0234-palindrome-linked-list) |
@@ -445,6 +446,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -455,6 +457,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -470,6 +473,7 @@ This repository contains my solutions to various LeetCode problems.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1306-jump-game-iii](https://github.com/Maithily-21/DSA/tree/master/1306-jump-game-iii) |
 ## Design
 |  |
