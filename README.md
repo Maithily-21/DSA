@@ -446,6 +446,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Maithily-21/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
@@ -458,6 +459,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Maithily-21/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Divide and Conquer
@@ -469,12 +471,14 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Maithily-21/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/Maithily-21/DSA/tree/master/0279-perfect-squares) |
 | [1306-jump-game-iii](https://github.com/Maithily-21/DSA/tree/master/1306-jump-game-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1306-jump-game-iii](https://github.com/Maithily-21/DSA/tree/master/1306-jump-game-iii) |
