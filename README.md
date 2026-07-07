@@ -244,6 +244,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Maithily-21/DSA/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Maithily-21/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/Maithily-21/DSA/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
