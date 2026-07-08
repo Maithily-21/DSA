@@ -28,6 +28,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maithily-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Maithily-21/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Maithily-21/DSA/tree/master/0179-largest-number) |
+| [0303-range-sum-query-immutable](https://github.com/Maithily-21/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Maithily-21/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Maithily-21/DSA/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -373,6 +374,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Maithily-21/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Maithily-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Maithily-21/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -501,6 +503,7 @@ This repository contains my solutions to various LeetCode problems.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Maithily-21/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Maithily-21/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Maithily-21/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
