@@ -458,6 +458,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0110-balanced-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Maithily-21/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -475,6 +476,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0110-balanced-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Maithily-21/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -488,6 +490,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/Maithily-21/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Maithily-21/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Maithily-21/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Maithily-21/DSA/tree/master/0279-perfect-squares) |
 | [1306-jump-game-iii](https://github.com/Maithily-21/DSA/tree/master/1306-jump-game-iii) |
 ## Depth-First Search
@@ -499,6 +502,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0110-balanced-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Maithily-21/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Maithily-21/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Maithily-21/DSA/tree/master/1306-jump-game-iii) |
 ## Design
