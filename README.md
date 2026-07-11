@@ -366,6 +366,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1193-monthly-transactions-i](https://github.com/Maithily-21/DSA/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Maithily-21/DSA/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/Maithily-21/DSA/tree/master/1251-average-selling-price) |
+| [1321-restaurant-growth](https://github.com/Maithily-21/DSA/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Maithily-21/DSA/tree/master/1341-movie-rating) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Maithily-21/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Maithily-21/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
