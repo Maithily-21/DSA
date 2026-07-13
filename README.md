@@ -465,11 +465,13 @@ This repository contains my solutions to various LeetCode problems.
 | [0199-binary-tree-right-side-view](https://github.com/Maithily-21/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Maithily-21/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Maithily-21/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Maithily-21/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Maithily-21/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -485,6 +487,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0199-binary-tree-right-side-view](https://github.com/Maithily-21/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Maithily-21/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Maithily-21/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Maithily-21/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
