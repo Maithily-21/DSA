@@ -19,7 +19,7 @@ class Solution {
             root = new TreeNode(val);
             return root;
         }
-        TreeNode prev = new TreeNode();
+        TreeNode prev = null;
         TreeNode current = root;
         while(current != null){
             if(val > current.val){
@@ -30,12 +30,10 @@ class Solution {
                 current = current.left;
             }
         }
-        if(current == null ){
-            if(prev.val > val){
-                prev.left = new TreeNode(val);
-            }else{
-                prev.right = new TreeNode(val);
-            }
+        if(prev.val > val){
+            prev.left = new TreeNode(val);
+        }else{
+            prev.right = new TreeNode(val);
         }
        
     return root;
