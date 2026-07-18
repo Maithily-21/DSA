@@ -63,6 +63,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Maithily-21/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Maithily-21/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Maithily-21/DSA/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Maithily-21/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Maithily-21/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Maithily-21/DSA/tree/master/2058-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Maithily-21/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -248,6 +249,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1448-maximum-69-number](https://github.com/Maithily-21/DSA/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Maithily-21/DSA/tree/master/1642-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Maithily-21/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Maithily-21/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Maithily-21/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/Maithily-21/DSA/tree/master/3830-find-closest-person) |
@@ -542,5 +544,6 @@ This repository contains my solutions to various LeetCode problems.
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Maithily-21/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Maithily-21/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
