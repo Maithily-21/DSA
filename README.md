@@ -49,6 +49,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1306-jump-game-iii](https://github.com/Maithily-21/DSA/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maithily-21/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Maithily-21/DSA/tree/master/1390-four-divisors) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Maithily-21/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -388,6 +389,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0303-range-sum-query-immutable](https://github.com/Maithily-21/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Maithily-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Maithily-21/DSA/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Maithily-21/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Maithily-21/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -434,6 +436,7 @@ This repository contains my solutions to various LeetCode problems.
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Maithily-21/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/Maithily-21/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Maithily-21/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Maithily-21/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Rolling Hash
 |  |
