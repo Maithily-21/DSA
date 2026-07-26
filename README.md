@@ -14,6 +14,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/Maithily-21/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0047-permutations-ii](https://github.com/Maithily-21/DSA/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Maithily-21/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Maithily-21/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Maithily-21/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Maithily-21/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Maithily-21/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -264,6 +265,7 @@ This repository contains my solutions to various LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maithily-21/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Maithily-21/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Maithily-21/DSA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Maithily-21/DSA/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -411,6 +413,7 @@ This repository contains my solutions to various LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Maithily-21/DSA/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Maithily-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Maithily-21/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Maithily-21/DSA/tree/master/0279-perfect-squares) |
