@@ -47,6 +47,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0881-boats-to-save-people](https://github.com/Maithily-21/DSA/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Maithily-21/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Maithily-21/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Maithily-21/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Maithily-21/DSA/tree/master/1051-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
 | [1306-jump-game-iii](https://github.com/Maithily-21/DSA/tree/master/1306-jump-game-iii) |
@@ -208,6 +209,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Maithily-21/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Maithily-21/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Maithily-21/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Maithily-21/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Maithily-21/DSA/tree/master/1185-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maithily-21/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -399,6 +401,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0303-range-sum-query-immutable](https://github.com/Maithily-21/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Maithily-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Maithily-21/DSA/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Maithily-21/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Maithily-21/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Maithily-21/DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -448,6 +451,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maithily-21/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Maithily-21/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/Maithily-21/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Maithily-21/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Maithily-21/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Maithily-21/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Rolling Hash
