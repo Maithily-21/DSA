@@ -127,6 +127,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0389-find-the-difference](https://github.com/Maithily-21/DSA/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Maithily-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
+| [0726-number-of-atoms](https://github.com/Maithily-21/DSA/tree/master/0726-number-of-atoms) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Maithily-21/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
@@ -185,6 +186,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0412-fizz-buzz](https://github.com/Maithily-21/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Maithily-21/DSA/tree/master/0415-add-strings) |
 | [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
+| [0726-number-of-atoms](https://github.com/Maithily-21/DSA/tree/master/0726-number-of-atoms) |
 | [0742-to-lower-case](https://github.com/Maithily-21/DSA/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Maithily-21/DSA/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Maithily-21/DSA/tree/master/1205-defanging-an-ip-address) |
@@ -326,6 +328,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maithily-21/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Maithily-21/DSA/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
+| [0726-number-of-atoms](https://github.com/Maithily-21/DSA/tree/master/0726-number-of-atoms) |
 | [0881-boats-to-save-people](https://github.com/Maithily-21/DSA/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/Maithily-21/DSA/tree/master/1051-height-checker) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Maithily-21/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -354,6 +357,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0225-implement-stack-using-queues](https://github.com/Maithily-21/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Maithily-21/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Maithily-21/DSA/tree/master/0234-palindrome-linked-list) |
+| [0726-number-of-atoms](https://github.com/Maithily-21/DSA/tree/master/0726-number-of-atoms) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maithily-21/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Interactive
 |  |
