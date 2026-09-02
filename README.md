@@ -81,6 +81,7 @@ This repository contains my solutions to various LeetCode problems.
 | [3790-fruits-into-baskets-ii](https://github.com/Maithily-21/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Maithily-21/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Maithily-21/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Maithily-21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -267,6 +268,7 @@ This repository contains my solutions to various LeetCode problems.
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Maithily-21/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/Maithily-21/DSA/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Maithily-21/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Maithily-21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
