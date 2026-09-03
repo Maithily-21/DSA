@@ -133,6 +133,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maithily-21/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Maithily-21/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1763-longest-nice-substring](https://github.com/Maithily-21/DSA/tree/master/1763-longest-nice-substring) |
 | [2784-check-if-array-is-good](https://github.com/Maithily-21/DSA/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Maithily-21/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
@@ -191,6 +192,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0742-to-lower-case](https://github.com/Maithily-21/DSA/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Maithily-21/DSA/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Maithily-21/DSA/tree/master/1205-defanging-an-ip-address) |
+| [1763-longest-nice-substring](https://github.com/Maithily-21/DSA/tree/master/1763-longest-nice-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maithily-21/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Maithily-21/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Maithily-21/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -297,6 +299,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Maithily-21/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Maithily-21/DSA/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Maithily-21/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Maithily-21/DSA/tree/master/1763-longest-nice-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -461,6 +464,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0643-maximum-average-subarray-i](https://github.com/Maithily-21/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Maithily-21/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Maithily-21/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1763-longest-nice-substring](https://github.com/Maithily-21/DSA/tree/master/1763-longest-nice-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Maithily-21/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Maithily-21/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Rolling Hash
@@ -535,6 +539,7 @@ This repository contains my solutions to various LeetCode problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Maithily-21/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Maithily-21/DSA/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/Maithily-21/DSA/tree/master/1763-longest-nice-substring) |
 ## Breadth-First Search
 |  |
 | ------- |
