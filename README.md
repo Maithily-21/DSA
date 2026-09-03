@@ -134,6 +134,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Maithily-21/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1763-longest-nice-substring](https://github.com/Maithily-21/DSA/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Maithily-21/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2784-check-if-array-is-good](https://github.com/Maithily-21/DSA/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Maithily-21/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
@@ -195,6 +196,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1763-longest-nice-substring](https://github.com/Maithily-21/DSA/tree/master/1763-longest-nice-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maithily-21/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Maithily-21/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Maithily-21/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Maithily-21/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/Maithily-21/DSA/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maithily-21/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -231,6 +233,7 @@ This repository contains my solutions to various LeetCode problems.
 | [0383-ransom-note](https://github.com/Maithily-21/DSA/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/Maithily-21/DSA/tree/master/0692-top-k-frequent-words) |
 | [1635-number-of-good-pairs](https://github.com/Maithily-21/DSA/tree/master/1635-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Maithily-21/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Maithily-21/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Segment Tree
 |  |
@@ -467,6 +470,7 @@ This repository contains my solutions to various LeetCode problems.
 | [1004-max-consecutive-ones-iii](https://github.com/Maithily-21/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Maithily-21/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1763-longest-nice-substring](https://github.com/Maithily-21/DSA/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Maithily-21/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Maithily-21/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Maithily-21/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Maithily-21/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
